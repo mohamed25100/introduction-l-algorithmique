@@ -58,6 +58,7 @@ Lire la suite des prix (en euros entiers et terminée par zéro) des achats d’
 # liens :
 - [version gitlab !](https://gitlab.com/nfr.mo.boucherba/introduction-a-l-algorithmique)
 - [derniere version github !!!](https://github.com/mohamed25100/introduction-l-algorithmique)
+- [ALGO PDF](https://www.i3s.unice.fr/~map/Cours/DUT_API_TD_TP/C1-2_APIStructuresAlgorithmiquesdeBase.pdf)
 
 # guide :
 - page principale: [cliquez ici](http://localhost:5500/ex.js)
