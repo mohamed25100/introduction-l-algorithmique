@@ -62,7 +62,8 @@ Lire la suite des prix (en euros entiers et terminée par zéro) des achats d’
 
 # guide :
 - page principale: [cliquez ici](http://localhost:5500/ex.js)
-- un fichier js
+- un fichier ex.js (js && algo)
+- un fichier app.js (js sans algo)
 
 ## projet simplon
 - [projet portfolio](https://github.com/mohamed25100/mon-portfolio)
